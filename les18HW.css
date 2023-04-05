@@ -42,12 +42,13 @@ background-color: green;
  
 }
 div row{
-  width: 100%;
+  max-width: 100%;
+  height: auto;
  margin: 0;
    list-style-type: none;
 }
 div lijst2{
-  width: 50%;
+  max-width: 100%;
   min-height: 600px;
   padding: 5px;
 
