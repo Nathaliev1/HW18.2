@@ -75,6 +75,7 @@ background-color: pink;
   width: 20%;
   float: right;
   padding: 15px;
+  vertical-align: center;
 }
 .p2 img{
   width: 20%;
