@@ -61,7 +61,8 @@ h1{
 .lijst1 li{
   list-style: disc;
   margin: 0;
-  
+ width: 100%;
+  height: auto;
 padding: 15px;
 background-color: yellow;
 }
