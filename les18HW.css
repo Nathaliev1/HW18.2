@@ -46,6 +46,7 @@ div row{
   height: auto;
  margin: 0;
  div lijst1{
+   max-width: 100%;
     list-style-type: none;
    margin: 0;
 }
