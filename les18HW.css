@@ -44,12 +44,13 @@ background-color: green;
 div row{
   width: 100%;
  align: center;
+   list-style-type: none;
 }
 div lijst2{
   width: 50%;
   min-height: 600px;
   padding: 5px;
- list-style-type: none;
+
 }
 h1{
   font-family: fantasy;
