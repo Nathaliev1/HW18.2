@@ -45,7 +45,9 @@ div row{
   max-width: 100%;
   height: auto;
  margin: 0;
-   list-style-type: none;
+ div lijst1{
+    list-style-type: none;
+   margin: 0;
 }
 div lijst2{
   max-width: 100%;
