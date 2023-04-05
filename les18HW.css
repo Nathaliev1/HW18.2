@@ -39,16 +39,17 @@ footer{
   width: 100%;
 min-height: 10%;
 background-color: green;
+  align: center;
 }
 div row{
   width: 100%;
-  margin: auto;
+ align: center;
 }
 div lijst2{
   width: 50%;
   min-height: 600px;
-  margin: auto;
   padding: 5px;
+  align: center;
 }
 h1{
   font-family: fantasy;
