@@ -14,7 +14,6 @@ body{
   height: auto;
   }@media only screen and (min-width: 768px){body{
   background-color: red;
-    width: 100%;
   }
   }
 
@@ -32,10 +31,8 @@ body{
 .col-12 {width: 100%;}
 header{
   background-image: url(foto.jpeg);
-  width: 100%;
-  height: auto;
   padding: 15px;
-  background-position: left;
+
 
 }
 footer{
