@@ -43,8 +43,7 @@ min-height: 10%;
 background-color: green;
 }
 div row{
-  background-size: auto auto;
-  background-size: 100% auto;
+ 
    width: auto;
   height: auto;
 }
@@ -73,13 +72,12 @@ background-color: pink;
   width: 20%;
   float: right;
   padding: 15px;
-  margin-top: 50%;
-  margin-bottom: 50%;
+  image-size: auto auto;
+  
 }
 .p2 img{
   width: 20%;
   float: right;
   padding: 15px;
-  margin-top: 50%;
-  margin-bottom: 50%;
+  
 }
