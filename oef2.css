@@ -43,6 +43,7 @@ background-color: green;
 }
 div row{
   width: 100%;
+  display: inline block;
 
 }
 div lijst2{
