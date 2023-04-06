@@ -69,14 +69,14 @@ background-color: pink;
 }
 
 .p1 img{
-  width: 20%;
+  min-width: 20%;
   float: right;
   padding: 15px;
-  image-size: auto auto;
+  
   
 }
 .p2 img{
-  width: 20%;
+  min-width: 20%;
   float: right;
   padding: 15px;
   
