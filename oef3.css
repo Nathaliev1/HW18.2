@@ -1,0 +1,105 @@
+[class*="col-"] {
+  width: 100%;
+}
+@media only screen and (min-width: 768px) {
+[class*="col-"] {
+  padding: 15px;
+  float:left;
+}
+}
+body{
+  background-color: grey;
+  }@media only screen and (min-width: 768px){body{
+  background-color: red;
+  }
+  }
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+header{
+  background-image: url(foto.jpeg);
+  background-size: auto;
+  background-size: 100%;
+  padding: 15px;
+  background-position: left;
+}
+
+footer{
+  position: relative;
+  bottom:0px;
+  width: 100%;
+  min-height: 10%;
+  background-color: green;
+}
+
+div row{
+  width: 100%;
+}
+
+div lijst2{
+  width: 100%;
+  min-height: 600px;
+  text-align: center;
+  border: 0;
+  margin: 0;
+}@media only screen and (min-width: 768px){div lijst2{
+text-align: left;
+}
+}
+
+h1{
+  font-family: fantasy;
+  text-align: center;
+}@media only screen and (min-width: 768px){h1{
+  text-align: left;
+  }
+  }
+
+.lijst1 {
+  list-style: disc;
+  padding: 15px;
+  background-color: yellow;
+  width: 100%;
+  text-align: center;
+  display: block;
+  }@media only screen and (min-width: 768px){.lijst1 {
+  width: 20%;
+  text-align: left;
+}
+}
+
+.lijst2{
+  background-color: pink;
+  background-position: center;
+  align-self: center;
+}
+
+.p1, .p2{
+  padding: 30px 30px 30px 30px;
+}
+
+  .p1 img{
+    width: auto;
+    float: right;
+    padding: 15px;
+    width: 25%;
+      }
+  .p2 img{
+    width: 25%;
+    float: right;
+    padding: 15px;
+  }
+  .p2 {
+    display: inline-block;
+    }
+#header { font-size: 150%;}
