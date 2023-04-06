@@ -47,6 +47,9 @@ div row{
  display: contents;
 
 }
+div lijst1{ 
+  width: 100%;
+}
 div lijst2{
   width: 50%;
   min-height: 600px;
