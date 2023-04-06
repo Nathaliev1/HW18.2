@@ -60,6 +60,7 @@ h1{
 padding: 15px;
 background-color: yellow;
   background-size: auto auto;
+  background-size: 100% auto;
 }
 .lijst2{
 background-color: pink;
