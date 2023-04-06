@@ -28,6 +28,8 @@ body{
 .col-12 {width: 100%;}
 header{
   background-image: url(foto.jpeg);
+  background-size: auto;
+  background-size: 100%;
   width: 100%;
   padding: 15px;
   background-position: left;
