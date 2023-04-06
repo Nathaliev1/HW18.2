@@ -82,7 +82,10 @@ h1{
   background-color: pink;
   background-position: center;
   align-self: center;
-}
+  width: 100%;
+}@media only screen and (min-width: 768px){.lijst2{
+  width: 75%;}   }  
+
 
 .p1, .p2{
   padding: 30px 30px 30px 30px;
