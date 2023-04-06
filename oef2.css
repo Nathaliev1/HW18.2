@@ -59,6 +59,7 @@ h1{
   list-style: disc;
 padding: 15px;
 background-color: yellow;
+  background-size: auto auto;
 }
 .lijst2{
 background-color: pink;
