@@ -1,0 +1,78 @@
+[class*="col-"] {
+  width: 100%;
+}
+@media only screen and (min-width: 768px) {
+[class*="col-"] {
+  padding: 15px;
+  float:left;
+}
+}
+body{
+  background-color: grey;
+  }@media only screen and (min-width: 768px){body{
+  background-color: red;
+  }
+  }
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+header{
+  background-image: url(foto.jpeg);
+  width: 100%;
+  padding: 15px;
+  background-position: left;
+
+}
+footer{
+  position: relative;
+  bottom:0px;
+  width: 100%;
+min-height: 10%;
+background-color: green;
+}
+div row{
+  width: 100%;
+}
+div lijst2{
+  width: 50%;
+  min-height: 600px;
+
+  padding: 5px;
+}
+h1{
+  font-family: fantasy;
+}
+
+.lijst1 li{
+  list-style: disc;
+padding: 15px;
+background-color: yellow;
+}
+.lijst2{
+background-color: pink;
+  margin-left: 5px;
+}
+
+.p1 img{
+  width: 20%;
+  float: right;
+  padding: 15px;
+}
+.p2 img{
+  width: 20%;
+  float: right;
+  padding: 15px;
+}
+.p2 {
+  display: inline-block;
+  }
