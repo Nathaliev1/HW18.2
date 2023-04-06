@@ -44,7 +44,7 @@ background-color: green;
 }
 div row{
   width: 100%;
- display: contents;
+ 
 
 }
 div lijst1{ 
@@ -52,7 +52,7 @@ div lijst1{
 }
 div lijst2{
   width: 50%;
-  min-height: 600px;
+  min-height: auto;
 
   padding: 5px;
 }
