@@ -44,8 +44,8 @@ background-color: green;
 }
 div row{
  
-   width: auto;
-  display: flex;
+   width: 100%;
+
 }
 div lijst2{
   width: 50%;
@@ -64,11 +64,10 @@ background-color: yellow;
   
   
 }
-.lijst2{
-background-color: pink;
-  margin-left: 5px;
- 
-}
+div lijst2{
+  width: 50%;
+  min-height: 600px;
+
 
 .p1 img{
  width: 20%;
