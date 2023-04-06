@@ -28,10 +28,10 @@ body{
 .col-12 {width: 100%;}
 header{
   background-image: url(foto.jpeg);
- background-size: auto auto;
- background-size: 100% auto;
- padding: 15px;
- background-position: left;
+  width: 100%;
+  padding: 15px;
+  background-position: left;
+
 }
 footer{
   position: relative;
