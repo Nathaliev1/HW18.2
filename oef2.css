@@ -45,9 +45,13 @@ background-color: green;
 div row{
   background-size: auto auto;
   background-size: 100% auto;
+   width: auto;
+  height: auto;
 }
 div lijst2{
   width: 50%;
+  width: auto;
+  height: auto;
   min-height: 600px;
 
   padding: 5px;
