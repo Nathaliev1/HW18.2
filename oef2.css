@@ -11,7 +11,7 @@ body{
   background-color: grey;
   }@media only screen and (min-width: 768px){body{
   background-color: red;
-    display: grid;
+  
   }
   }
 
@@ -44,7 +44,7 @@ background-color: green;
 }
 div row{
   width: 100%;
- 
+ display: contents;
 
 }
 div lijst2{
