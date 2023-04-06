@@ -30,7 +30,8 @@ body{
 header{
   background-image: url(foto.jpeg);
   padding: 15px;
-
+width: 100%;
+  height: auto;
 
 }
 footer{
