@@ -61,16 +61,17 @@ h1{
   list-style: disc;
 padding: 15px;
 background-color: yellow;
+  width: 100% auto;
   
 }
 .lijst2{
 background-color: pink;
   margin-left: 5px;
+  width: 100% auto;
 }
 
 .p1 img{
  width: 20%;
-  width: auto;
   float: right;
   padding: 15px;
   
@@ -78,7 +79,6 @@ background-color: pink;
 }
 .p2 img{
 width: 20%;
-  width: auto;
   float: right;
   padding: 15px;
   
