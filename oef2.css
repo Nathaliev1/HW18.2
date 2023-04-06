@@ -43,7 +43,8 @@ min-height: 10%;
 background-color: green;
 }
 div row{
-  width: 100%;
+  background-size: auto auto;
+  background-size: 100% auto;
 }
 div lijst2{
   width: 50%;
@@ -59,8 +60,7 @@ h1{
   list-style: disc;
 padding: 15px;
 background-color: yellow;
-  background-size: auto auto;
-  background-size: 100% auto;
+  
 }
 .lijst2{
 background-color: pink;
